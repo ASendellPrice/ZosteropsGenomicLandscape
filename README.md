@@ -1,6 +1,6 @@
 # The genomic landscape of divergence across the speciation continuum in an island-colonising bird
 
-This GitHub repository contains custom scripts used in our manuscript submitted to Molecular Ecology. Custom scripts include:
+This GitHub repository contains custom scripts used in the manuscript 'The genomic landscape of divergence across the speciation continuum in an island-colonising bird' submitted to Molecular Ecology. Custom scripts include:
 
 ### R script used to compare distributional skew (and kurtosis) of FST values:
 1) CompareSkew.R  
@@ -16,3 +16,4 @@ note: island/valley detection scripts were developed by Benjamin Van Doren (benj
 2) MainFunction.R - fuctions required 
 
 note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran@zoo.ox.ac.uk) and Eric Anderson (eric.anderson@noaa.gov). For queries regarding simulating two-population divergence please contact either Claudio or Eric. 
+
