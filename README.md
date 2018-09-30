@@ -22,8 +22,4 @@ Resequencing data from this study have been submitted to the National Center for
 
 A Zebra Finch orientated VCF file, which formed the basis of our analyses, is available via Dropbox: "https://www.dropbox.com/sh/ivqj19l7qyrv5fm/AAB5_mEfV8njcf2AsyO_0aVVa?dl=0". Assignment of samples to populations are detailed in the file 'Samples_in_pops.txt'. The five comparisons used in this study are:
 
-SI vs. CI = Early stage with gene flow
-SI vs. FP = Early stage no gene flow
-HI vs. ML = Mid stage with gene flow
-LF vs. GT = Late stage with gene flow
-LH vs. VN = Late stage no gene flow
+SI vs. CI = Early stage with gene flow, SI vs. FP = Early stage no gene flow, HI vs. ML = Mid stage with gene flow, LF vs. GT = Late stage with gene flow, LH vs. VN = Late stage no gene flow.
