@@ -2,9 +2,12 @@
 
 This GitHub repository contains custom scripts used in our manuscript submitted to Molecular Ecology. Custom scripts include:
 
-## R script used to compare distributional skew of FST values:
-1) 
+## R script used to compare distributional skew (and kurtosis) of FST values:
+1) CompareSkew.R  
 
+## R scripts used to detect genomic island of divergence and genomic valleys of simularity:
+1) simulations.R - main script for conducting simulations.
+2) MainFunction.R - fuctions required 
 
 ## R scripts used to conduct individual-based models of population divergence:
 1) simulations.R - main script for conducting simulations.
