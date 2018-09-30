@@ -20,4 +20,10 @@ note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran
 ### Data access:
 Resequencing data from this study have been submitted to the National Center for Biotechnology Information (NCBI; https://www.ncbi.nlm.nih.gov) under accession number PRJNA489169. 
 
-VCF files used in analyses (including Zebra Finch ordered VCF files) are available via Dropbox: "ADD LINK". The file 'Samples_in_pops.txt' details which samples belong to which population. 
+A Zebra Finch orientated VCF file, which formed the basis for our analyses, is available via Dropbox: "ADD LINK". Assignment of samples to populations are detailed in the file 'Samples_in_pops.txt'. The five comparisons used in this study are:
+
+SI vs. CI = Early stage with gene flow
+SI vs. FP = Early stage no gene flow
+HI vs. ML = Mid stage with gene flow
+LF vs. GT = Late stage with gene flow
+LH vs. VN = Late stage no gene flow
