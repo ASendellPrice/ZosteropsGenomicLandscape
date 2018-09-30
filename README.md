@@ -17,3 +17,7 @@ note: island/valley detection scripts were developed by Benjamin Van Doren (benj
 
 note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran@zoo.ox.ac.uk) and Eric Anderson (eric.anderson@noaa.gov). For queries regarding simulating two-population divergence please contact either Claudio or Eric. 
 
+### Data access:
+Resequencing data from this study have been submitted to the National Center for Biotechnology Information (NCBI; https://www.ncbi.nlm.nih.gov) under accession number PRJNA489169. 
+
+VCF files used in analyses (including Zebra Finch ordered VCF files) are available via Dropbox: "ADD LINK". The file 'Samples_in_pops.txt' details which samples belong to which population. 
