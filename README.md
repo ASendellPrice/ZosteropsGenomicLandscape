@@ -2,7 +2,8 @@
 
 This GitHub repository contains custom scripts used in our manuscript submitted to Molecular Ecology. Custom scripts include:
 
-## R script used to compare:
+## R script used to compare distributional skew of FST values:
+1) 
 
 
 ## R scripts used to conduct individual-based models of population divergence:
