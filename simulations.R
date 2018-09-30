@@ -2,9 +2,13 @@
 #-------------------------------------------------------------------------------     
 ## (c) Claudio Quilodran and Eric C. Anderson 2018
 # Department of Zoology, University of Oxford: claudio.quilodran@zoo.ox.ac.uk
-# Department of Ecology and Evolutionary Biology, University of California: eric.anderson@noaa.gov      
+# Fisheries Ecology Division, Southwest Fisheries Science Center, National Marine Fisheries Service: eric.anderson@noaa.gov      
 #
-#         Dynamic of two populations with individual genetic identity 
+# Individual-based simulation of two population divergence as used in 
+# Sendell-Price et al. (2018) The genomic landscape of divergence across the speciation
+# continuum in island-colonising birds.
+#
+# For further info contact: claudio.quilodran@zoo.ox.ac.uk
 #
 #-------------------------------------------------------------------------------   
 #-------------------------------------------------------------------------------   
