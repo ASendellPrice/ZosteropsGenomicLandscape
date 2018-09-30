@@ -6,11 +6,13 @@ This GitHub repository contains custom scripts used in our manuscript submitted 
 1) CompareSkew.R  
 
 ### R scripts used to detect genomic island of divergence and genomic valleys of simularity:
-1) simulations.R - main script for conducting simulations.
+1) Detect_Islands_Valleys.R - main script for island/valley detection.
 2) Island_Detecting_Functions.R - fuctions required 
+
+note: island/valley detection scripts were developed by Benjamin Van Doren (benjamin.vandoren@zoo.ox.ac.uk).
 
 ### R scripts used to conduct individual-based models of population divergence:
 1) simulations.R - main script for conducting simulations.
 2) MainFunction.R - fuctions required 
 
-note: these scripts were developed by Claudio Quilodrán (claudio.quilodran@zoo.ox.ac.uk) and Eric Anderson (eric.anderson@noaa.gov). For queries regarding simulating two-population divergence please contact either Claudio or Eric. 
+note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran@zoo.ox.ac.uk) and Eric Anderson (eric.anderson@noaa.gov). For queries regarding simulating two-population divergence please contact either Claudio or Eric. 
