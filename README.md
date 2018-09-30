@@ -20,7 +20,7 @@ note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran
 ### Data access:
 Resequencing data from this study have been submitted to the National Center for Biotechnology Information (NCBI; https://www.ncbi.nlm.nih.gov) under accession number PRJNA489169. 
 
-A Zebra Finch orientated VCF file, which formed the basis for our analyses, is available via Dropbox: "ADD LINK". Assignment of samples to populations are detailed in the file 'Samples_in_pops.txt'. The five comparisons used in this study are:
+A Zebra Finch orientated VCF file, which formed the basis of our analyses, is available via Dropbox: "https://www.dropbox.com/sh/ivqj19l7qyrv5fm/AAB5_mEfV8njcf2AsyO_0aVVa?dl=0". Assignment of samples to populations are detailed in the file 'Samples_in_pops.txt'. The five comparisons used in this study are:
 
 SI vs. CI = Early stage with gene flow
 SI vs. FP = Early stage no gene flow
