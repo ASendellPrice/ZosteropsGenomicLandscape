@@ -4,8 +4,9 @@
 # island-colonising bird
 
 # The following script detects genomic islands and genomic valleys across the genomic landscape of divergence 
-# populations via permutation. This script is based on that used by Van Doren et al. (2017) Correlated patterns of 
-# genetic diversity and differentiation across an avian family
+# populations via permutation and to conduct Biomart queries to identify genes contained within islands/valleys.
+# This script is based on that used by Van Doren et al. (2017) Correlated patterns of genetic diversity and 
+# differentiation across an avian family
 ##################################################################################################################
 
 #Load required packages and functions
