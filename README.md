@@ -8,6 +8,7 @@ This GitHub repository contains custom scripts used in the manuscript: 'Sendell-
 ### R scripts used to detect genomic island of divergence and genomic valleys of simularity; extract statistics from islands and valleys (mean FST, mean dxy, mean pi etc); get genes contained within each island/valley. 
 1) Detect_Islands_Valleys_BiomartQuery.R - main script for island/valley detection.
 2) Island_Detecting_Functions.R - script defining further functions required by Detect_Islands_Valleys_BiomartQuery.R.
+
 note: island/valley detection scripts were originally developed by Benjamin Van Doren (benjamin.vandoren@zoo.ox.ac.uk) for the manuscript: Van Doren et al. (2017) Correlated patterns of genetic diversity and differentiation across an avian family.
 
 ### R script used to detect outlier SNPs (using the package PCAdapt)
