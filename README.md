@@ -16,6 +16,9 @@ Note: island/valley detection scripts were originally developed by Benjamin Van 
 
 Note: this script requires use of pairwise VCF files (one file per population comparison).
 
+### R script used to count number of outlier SNPs contained within genomic islands/valleys
+1) Count_Outliers_in_Islands_Valleys.R
+
 ### R script used to reorder VCF file into Zebra Finch chromosomes.
 1) Reorder_VCF.R
 
