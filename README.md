@@ -3,7 +3,7 @@
 This GitHub repository contains custom scripts used in the manuscript: 'Sendell-Price et al. The genomic landscape of divergence across the speciation continuum in an island-colonising bird' submitted to Evolution. Custom scripts include:
 
 ### R script used to compare distributional skew (and kurtosis) of FST values:
-1) CompareSkew.R  
+1) CompareSkewness.R  
 
 ### R scripts used to detect genomic island of divergence and genomic valleys of simularity; extract statistics from islands and valleys (mean FST, mean dxy, mean pi etc); get genes contained within each island/valley. 
 1) Detect_Islands_Valleys_BiomartQuery.R - main script for island/valley detection.
