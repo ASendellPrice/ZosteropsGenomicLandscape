@@ -18,6 +18,9 @@ Note: this script requires use of pairwise VCF files (one file per population co
 ### R script used to count number of outlier SNPs contained within genomic islands/valleys
 1) Count_Outliers_in_Islands_Valleys.R
 
+### R script used to determine if candiate genes were within islands/valleys or contained outlier SNPs
+1) CadidateGenes_Containing_Outliers_Islands_Valleys.R
+
 ### R script used to reorder VCF file into Zebra Finch chromosomes.
 1) Reorder_VCF.R
 
