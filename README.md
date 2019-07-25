@@ -13,7 +13,6 @@ Note: island/valley detection scripts were originally developed by Benjamin Van 
 
 ### R script used to detect outlier SNPs (using the package PCAdapt)
 1) Detect_outlier_SNPs_using_PCAdapt.R
-
 Note: this script requires use of pairwise VCF files (one file per population comparison).
 
 ### R script used to count number of outlier SNPs contained within genomic islands/valleys
@@ -25,10 +24,7 @@ Note: this script requires use of pairwise VCF files (one file per population co
 Note: in addition to Zosterops lateralis mapped VCF files, this script requires the following files: ZLat_scaffold_order_from_ZFinch.csv (output from satsuma synteny) and Zost_Scaffold_Lengths.txt 
 
 ### R scripts used to conduct individual-based models of population divergence:
-1) simulations.R - main script for conducting simulations.
-2) MainFunction.R - fuctions required 
-
-Note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran@zoo.ox.ac.uk) and Eric Anderson (eric.anderson@noaa.gov). For queries regarding simulating two-population divergence please contact either Claudio or Eric. 
+Note: simulation scripts were developed by Claudio Quilodrán (claudio.quilodran@zoo.ox.ac.uk) and Eric Anderson (eric.anderson@noaa.gov). For queries regarding simulating two-population divergence please contact either Claudio or Eric. Scripts are available at: https://github.com/eriqande/gids
 
 ### Data access:
 Resequencing data from this study have been submitted to the National Center for Biotechnology Information (NCBI; https://www.ncbi.nlm.nih.gov) under accession number PRJNA489169. 
