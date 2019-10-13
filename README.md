@@ -1,6 +1,9 @@
 # The genomic landscape of divergence across the speciation continuum in an island-colonising bird
 
-This GitHub repository contains custom scripts used in the manuscript: 'Sendell-Price et al. The genomic landscape of divergence across the speciation continuum in an island-colonising bird' submitted to Evolution. Custom scripts include:
+This GitHub repository contains supplementary material and custom scripts used in the manuscript: 'Sendell-Price et al. The genomic landscape of divergence across the speciation continuum in an island-colonising bird' submitted to Evolution. Custom scripts include:
+
+### Supplmentary material:
+1) Supporting_Information.pdf  
 
 ### R script used to compare distributional skew (and kurtosis) of FST values:
 1) CompareSkewness.R  
